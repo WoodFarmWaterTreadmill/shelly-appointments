@@ -25,7 +25,8 @@ fetch('appointments.json?v='+Date.now()).then(r=>r.json()).then(data=>{
  const groups={};
  items.forEach(a=>(groups[a.date]??=[]).push(a));
  const fmt=d=>{const [y,m,day]=d.split('-');return new Date(y,m-1,day).toLocaleDateString('en-GB',{weekday:'long',day:'numeric',month:'long',year:'numeric'});};
- document.getElementById('app').innerHTML=items.length?Object.entries(groups).map(([d,arr])=>`<section><div class="day">${fmt(d)}</div>${arr.map(a=>`<div class="row"><div class="time">${a.time}</div><div><div class="label">Horse</div><div class="value">${a.horse}</div></div><div><div class="label">Owner</div><div class="value">${a.owner}</div></div></div>`).join('')}</section>`).join(''):'<section>No upcoming booked appointments.</section>';
+ const displayTime=t=>{const [h,m]=t.split(':'); return `${h}:${m==='18'?'30':m}`;};
+ document.getElementById('app').innerHTML=items.length?Object.entries(groups).map(([d,arr])=>`<section><div class="day">${fmt(d)}</div>${arr.map(a=>`<div class="row"><div class="time">${displayTime(a.time)}</div><div><div class="label">Horse</div><div class="value">${a.horse}</div></div><div><div class="label">Owner</div><div class="value">${a.owner}</div></div></div>`).join('')}</section>`).join(''):'<section>No upcoming booked appointments.</section>';
 }).catch(()=>document.getElementById('app').textContent='Unable to load appointments.');
 </script>
 </body>
