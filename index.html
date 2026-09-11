@@ -6,28 +6,105 @@
 <title>Shelly's Appointments</title>
 <style>
 body{margin:0;background:#f6f7f5;color:#243028;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
-main{max-width:760px;margin:auto;padding:28px 16px 50px}
+main{max-width:1000px;margin:auto;padding:28px 16px 50px}
 header,section{background:#fff;border:1px solid #e1e6e1;border-radius:18px;padding:20px;margin-bottom:14px}
-.day{font-weight:700;font-size:18px;margin-bottom:8px}
-.row{display:grid;grid-template-columns:90px 1fr 1fr;gap:12px;border-top:1px solid #edf0ed;padding:12px 0}
-.time{font-weight:700}.label{font-size:11px;color:#788078;text-transform:uppercase;letter-spacing:.05em}.value{font-size:16px}
+h1{margin:0 0 6px;font-size:28px} p{margin:0;color:#667068}
+.table-wrap{overflow-x:auto}
+table{width:100%;border-collapse:collapse;margin-top:4px}
+th,td{text-align:left;padding:12px 10px;border-bottom:1px solid #edf0ed;white-space:nowrap}
+th{font-size:12px;color:#788078;text-transform:uppercase;letter-spacing:.05em}
+td:nth-child(2){font-weight:700}
+@media(max-width:600px){th,td{padding:10px 7px;font-size:14px}}
 </style>
 </head>
 <body>
 <main>
-<header><h1>Shelly's Appointments</h1></header>
-<div id="app">Loading...</div>
+<header><h1>Shelly's Appointments</h1><p>Upcoming booked appointments</p></header>
+<section><div class="table-wrap"><table>
+<thead><tr><th>Date</th><th>Time</th><th>Horse</th><th>Owner</th></tr></thead>
+<tbody>
+<tr><td>Wednesday 16 September 2026</td><td>10:00</td><td>Smartie</td><td>Izzy Robertson</td></tr>
+<tr><td>Wednesday 16 September 2026</td><td>10:30</td><td>Misty</td><td>Tania Nash</td></tr>
+<tr><td>Wednesday 16 September 2026</td><td>11:00</td><td>Rory</td><td>Grace Millar</td></tr>
+<tr><td>Wednesday 16 September 2026</td><td>11:30</td><td>Gordon</td><td>Grace Millar</td></tr>
+<tr><td>Wednesday 16 September 2026</td><td>12:00</td><td>Trump</td><td>Cheryl Noble</td></tr>
+<tr><td>Wednesday 16 September 2026</td><td>12:30</td><td>Flair</td><td>Daisy Seaton</td></tr>
+<tr><td>Wednesday 16 September 2026</td><td>13:00</td><td>Tony</td><td>Lisa Noble</td></tr>
+<tr><td>Thursday 17 September 2026</td><td>10:30</td><td>Jack</td><td>Maisie</td></tr>
+<tr><td>Thursday 17 September 2026</td><td>12:00</td><td>Freddie</td><td>Maria Lavery</td></tr>
+<tr><td>Thursday 17 September 2026</td><td>12:30</td><td>Freddie</td><td>Meg/Steve</td></tr>
+<tr><td>Wednesday 23 September 2026</td><td>10:30</td><td>Misty</td><td>Tania Nash</td></tr>
+<tr><td>Wednesday 23 September 2026</td><td>11:00</td><td>Rory</td><td>Grace Millar</td></tr>
+<tr><td>Wednesday 23 September 2026</td><td>11:30</td><td>Gordon</td><td>Grace Millar</td></tr>
+<tr><td>Wednesday 23 September 2026</td><td>12:00</td><td>Trump</td><td>Cheryl Noble</td></tr>
+<tr><td>Wednesday 23 September 2026</td><td>12:30</td><td>Sunny</td><td>Jasmin Collins</td></tr>
+<tr><td>Wednesday 23 September 2026</td><td>13:00</td><td>Ember</td><td>Jasmin Collins</td></tr>
+<tr><td>Thursday 24 September 2026</td><td>09:30</td><td>Flair</td><td>Daisy Seaton</td></tr>
+<tr><td>Thursday 24 September 2026</td><td>10:00</td><td>Grace</td><td>Jamie Eaton</td></tr>
+<tr><td>Thursday 24 September 2026</td><td>10:30</td><td>Jack</td><td>Maisie</td></tr>
+<tr><td>Thursday 24 September 2026</td><td>12:00</td><td>Freddie</td><td>Maria Lavery</td></tr>
+<tr><td>Thursday 24 September 2026</td><td>12:30</td><td>Freddie</td><td>Meg/Steve</td></tr>
+<tr><td>Wednesday 30 September 2026</td><td>10:00</td><td>Misty</td><td>Tania Nash</td></tr>
+<tr><td>Wednesday 30 September 2026</td><td>11:00</td><td>Rory</td><td>Grace Millar</td></tr>
+<tr><td>Wednesday 30 September 2026</td><td>11:30</td><td>Gordon</td><td>Grace Millar</td></tr>
+<tr><td>Wednesday 30 September 2026</td><td>12:00</td><td>Trump</td><td>Cheryl Noble</td></tr>
+<tr><td>Wednesday 30 September 2026</td><td>12:30</td><td>George</td><td>Raychel</td></tr>
+<tr><td>Thursday 1 October 2026</td><td>09:30</td><td>Flair</td><td>Daisy Seaton</td></tr>
+<tr><td>Thursday 1 October 2026</td><td>10:00</td><td>Grace</td><td>Jamie Eaton</td></tr>
+<tr><td>Thursday 1 October 2026</td><td>10:30</td><td>Jack</td><td>Maisie</td></tr>
+<tr><td>Thursday 1 October 2026</td><td>12:00</td><td>Freddie</td><td>Maria Lavery</td></tr>
+<tr><td>Thursday 1 October 2026</td><td>12:30</td><td>Freddie</td><td>Meg/Steve</td></tr>
+<tr><td>Wednesday 7 October 2026</td><td>10:00</td><td>Misty</td><td>Tania Nash</td></tr>
+<tr><td>Wednesday 7 October 2026</td><td>11:00</td><td>Rory</td><td>Grace Millar</td></tr>
+<tr><td>Wednesday 7 October 2026</td><td>11:30</td><td>Gordon</td><td>Grace Millar</td></tr>
+<tr><td>Wednesday 7 October 2026</td><td>12:00</td><td>Trump</td><td>Cheryl Noble</td></tr>
+<tr><td>Wednesday 7 October 2026</td><td>13:00</td><td>Tony</td><td>Lisa Noble</td></tr>
+<tr><td>Thursday 8 October 2026</td><td>09:30</td><td>Flair</td><td>Daisy Seaton</td></tr>
+<tr><td>Thursday 8 October 2026</td><td>10:00</td><td>Grace</td><td>Jamie Eaton</td></tr>
+<tr><td>Thursday 8 October 2026</td><td>10:30</td><td>Jack</td><td>Maisie</td></tr>
+<tr><td>Thursday 8 October 2026</td><td>12:00</td><td>Freddie</td><td>Maria Lavery</td></tr>
+<tr><td>Thursday 8 October 2026</td><td>12:30</td><td>Freddie</td><td>Meg/Steve</td></tr>
+<tr><td>Wednesday 14 October 2026</td><td>10:00</td><td>Misty</td><td>Tania Nash</td></tr>
+<tr><td>Wednesday 14 October 2026</td><td>11:00</td><td>Rory</td><td>Grace Millar</td></tr>
+<tr><td>Wednesday 14 October 2026</td><td>11:30</td><td>Gordon</td><td>Grace Millar</td></tr>
+<tr><td>Wednesday 14 October 2026</td><td>12:00</td><td>Trump</td><td>Cheryl Noble</td></tr>
+<tr><td>Wednesday 14 October 2026</td><td>13:00</td><td>Tony</td><td>Lisa Noble</td></tr>
+<tr><td>Thursday 15 October 2026</td><td>10:00</td><td>Grace</td><td>Jamie Eaton</td></tr>
+<tr><td>Thursday 15 October 2026</td><td>10:30</td><td>Jack</td><td>Maisie</td></tr>
+<tr><td>Thursday 15 October 2026</td><td>12:00</td><td>Freddie</td><td>Maria Lavery</td></tr>
+<tr><td>Thursday 15 October 2026</td><td>12:30</td><td>Freddie</td><td>Meg/Steve</td></tr>
+<tr><td>Wednesday 21 October 2026</td><td>10:00</td><td>Misty</td><td>Tania Nash</td></tr>
+<tr><td>Wednesday 21 October 2026</td><td>11:00</td><td>Rory</td><td>Grace Millar</td></tr>
+<tr><td>Wednesday 21 October 2026</td><td>11:30</td><td>Gordon</td><td>Grace Millar</td></tr>
+<tr><td>Wednesday 21 October 2026</td><td>12:00</td><td>Trump</td><td>Cheryl Noble</td></tr>
+<tr><td>Wednesday 21 October 2026</td><td>13:00</td><td>Tony</td><td>Lisa Noble</td></tr>
+<tr><td>Thursday 22 October 2026</td><td>10:00</td><td>Grace</td><td>Jamie Eaton</td></tr>
+<tr><td>Thursday 22 October 2026</td><td>10:30</td><td>Jack</td><td>Maisie</td></tr>
+<tr><td>Thursday 22 October 2026</td><td>12:00</td><td>Freddie</td><td>Maria Lavery</td></tr>
+<tr><td>Thursday 22 October 2026</td><td>12:30</td><td>Freddie</td><td>Meg/Steve</td></tr>
+<tr><td>Wednesday 28 October 2026</td><td>10:00</td><td>Misty</td><td>Tania Nash</td></tr>
+<tr><td>Wednesday 28 October 2026</td><td>11:00</td><td>Rory</td><td>Grace Millar</td></tr>
+<tr><td>Wednesday 28 October 2026</td><td>11:30</td><td>Gordon</td><td>Grace Millar</td></tr>
+<tr><td>Wednesday 28 October 2026</td><td>12:00</td><td>Trump</td><td>Cheryl Noble</td></tr>
+<tr><td>Wednesday 28 October 2026</td><td>13:00</td><td>Tony</td><td>Lisa Noble</td></tr>
+<tr><td>Thursday 29 October 2026</td><td>10:00</td><td>Grace</td><td>Jamie Eaton</td></tr>
+<tr><td>Thursday 29 October 2026</td><td>12:00</td><td>Freddie</td><td>Maria Lavery</td></tr>
+<tr><td>Thursday 29 October 2026</td><td>12:30</td><td>Freddie</td><td>Meg/Steve</td></tr>
+<tr><td>Wednesday 4 November 2026</td><td>10:00</td><td>Misty</td><td>Tania Nash</td></tr>
+<tr><td>Wednesday 4 November 2026</td><td>12:00</td><td>Trump</td><td>Cheryl Noble</td></tr>
+<tr><td>Thursday 5 November 2026</td><td>10:00</td><td>Grace</td><td>Jamie Eaton</td></tr>
+<tr><td>Thursday 5 November 2026</td><td>12:00</td><td>Freddie</td><td>Maria Lavery</td></tr>
+<tr><td>Thursday 5 November 2026</td><td>12:30</td><td>Freddie</td><td>Meg/Steve</td></tr>
+<tr><td>Wednesday 11 November 2026</td><td>12:00</td><td>Trump</td><td>Cheryl Noble</td></tr>
+<tr><td>Thursday 12 November 2026</td><td>10:00</td><td>Grace</td><td>Jamie Eaton</td></tr>
+<tr><td>Thursday 12 November 2026</td><td>12:00</td><td>Freddie</td><td>Maria Lavery</td></tr>
+<tr><td>Thursday 12 November 2026</td><td>12:30</td><td>Freddie</td><td>Meg/Steve</td></tr>
+<tr><td>Wednesday 18 November 2026</td><td>12:00</td><td>Trump</td><td>Cheryl Noble</td></tr>
+<tr><td>Thursday 19 November 2026</td><td>10:00</td><td>Grace</td><td>Jamie Eaton</td></tr>
+<tr><td>Thursday 19 November 2026</td><td>12:00</td><td>Freddie</td><td>Maria Lavery</td></tr>
+<tr><td>Thursday 19 November 2026</td><td>12:30</td><td>Freddie</td><td>Meg/Steve</td></tr>
+</tbody>
+</table></div></section>
 </main>
-<script>
-fetch('appointments.json?v='+Date.now()).then(r=>r.json()).then(data=>{
- const now=new Date();
- const items=data.appointments.filter(a=>new Date(a.date+'T'+a.time+':00')>=now);
- const groups={};
- items.forEach(a=>(groups[a.date]??=[]).push(a));
- const fmt=d=>{const [y,m,day]=d.split('-');return new Date(y,m-1,day).toLocaleDateString('en-GB',{weekday:'long',day:'numeric',month:'long',year:'numeric'});};
- const displayTime=t=>{const [h,m]=t.split(':'); return `${h}:${m==='18'?'30':m}`;};
- document.getElementById('app').innerHTML=items.length?Object.entries(groups).map(([d,arr])=>`<section><div class="day">${fmt(d)}</div>${arr.map(a=>`<div class="row"><div class="time">${displayTime(a.time)}</div><div><div class="label">Horse</div><div class="value">${a.horse}</div></div><div><div class="label">Owner</div><div class="value">${a.owner}</div></div></div>`).join('')}</section>`).join(''):'<section>No upcoming booked appointments.</section>';
-}).catch(()=>document.getElementById('app').textContent='Unable to load appointments.');
-</script>
 </body>
 </html>
