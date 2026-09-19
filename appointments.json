@@ -83,6 +83,12 @@
     {"date":"2026-11-12","time":"10:00","horse":"Grace","owner":"Jamie Eaton"},
     {"date":"2026-11-12","time":"12:00","horse":"Freddie","owner":"Maria Lavery"},
     {"date":"2026-11-12","time":"12:30","horse":"Freddie","owner":"Meg/Steve"},
-    {"date":"2026-11-12","time":"13:00","horse":"Gibralter","owner":"Steven Lawrence"}
+    {"date":"2026-11-12","time":"13:00","horse":"Gibralter","owner":"Steven Lawrence"}    ,{"date":"2026-11-19","time":"10:00","horse":"Grace","owner":"Jamie Eaton"},
+    {"date":"2026-11-19","time":"12:00","horse":"Freddie","owner":"Maria Lavery"},
+    {"date":"2026-11-19","time":"12:30","horse":"Freddie","owner":"Meg/Steve"},
+    {"date":"2026-11-19","time":"13:00","horse":"Gibralter","owner":"Steven Lawrence"},
+    {"date":"2026-11-26","time":"10:00","horse":"Grace","owner":"Jamie Eaton"},
+    {"date":"2026-11-26","time":"12:30","horse":"Freddie","owner":"Meg/Steve"},
+    {"date":"2026-11-26","time":"13:00","horse":"Gibralter","owner":"Steven Lawrence"}
   ]
 }
