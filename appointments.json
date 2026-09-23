@@ -2,7 +2,7 @@
   "appointments": [
     {
       "date": "2026-09-24",
-      "time": "09:30",
+      "time": "10:00",
       "horse": "Flair",
       "owner": "Daisy Seaton"
     },
@@ -17,6 +17,12 @@
       "time": "11:00",
       "horse": "Horse",
       "owner": "Lara Roberts"
+    },
+    {
+      "date": "2026-09-24",
+      "time": "11:30",
+      "horse": "Skye",
+      "owner": "Katie Silk"
     },
     {
       "date": "2026-09-24",
@@ -59,6 +65,12 @@
       "time": "10:00",
       "horse": "Misty",
       "owner": "Tania Nash"
+    },
+    {
+      "date": "2026-09-30",
+      "time": "10:30",
+      "horse": "Dusty",
+      "owner": "Rory McKenzie"
     },
     {
       "date": "2026-09-30",
@@ -458,6 +470,54 @@
     },
     {
       "date": "2026-11-12",
+      "time": "13:00",
+      "horse": "Gibralter",
+      "owner": "Steven Lawrence"
+    },
+    {
+      "date": "2026-11-18",
+      "time": "12:00",
+      "horse": "Trump",
+      "owner": "Cheryl Noble"
+    },
+    {
+      "date": "2026-11-19",
+      "time": "10:00",
+      "horse": "Grace",
+      "owner": "Jamie Eaton"
+    },
+    {
+      "date": "2026-11-19",
+      "time": "12:00",
+      "horse": "Freddie",
+      "owner": "Maria Lavery"
+    },
+    {
+      "date": "2026-11-19",
+      "time": "12:30",
+      "horse": "Freddie",
+      "owner": "Meg/Steve"
+    },
+    {
+      "date": "2026-11-19",
+      "time": "13:00",
+      "horse": "Gibralter",
+      "owner": "Steven Lawrence"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "10:00",
+      "horse": "Grace",
+      "owner": "Jamie Eaton"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "12:30",
+      "horse": "Freddie",
+      "owner": "Meg/Steve"
+    },
+    {
+      "date": "2026-11-26",
       "time": "13:00",
       "horse": "Gibralter",
       "owner": "Steven Lawrence"
