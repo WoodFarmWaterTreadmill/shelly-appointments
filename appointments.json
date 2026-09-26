@@ -50,12 +50,6 @@
     },
     {
       "date": "2026-10-01",
-      "time": "10:00",
-      "horse": "Grace",
-      "owner": "Jamie Eaton"
-    },
-    {
-      "date": "2026-10-01",
       "time": "10:30",
       "horse": "Jack",
       "owner": "Maisie"
@@ -83,6 +77,12 @@
       "time": "13:30",
       "horse": "Smartie",
       "owner": "Izzy Robertson"
+    },
+    {
+      "date": "2026-10-01",
+      "time": "14:00",
+      "horse": "Basil",
+      "owner": "Hannah LJ"
     },
     {
       "date": "2026-10-01",
@@ -479,6 +479,12 @@
       "time": "13:00",
       "horse": "Gibralter",
       "owner": "Steven Lawrence"
+    },
+    {
+      "date": "2026-12-03",
+      "time": "10:00",
+      "horse": "Grace",
+      "owner": "Jamie Eaton"
     }
   ]
 }
