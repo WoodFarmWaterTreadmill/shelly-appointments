@@ -3,8 +3,8 @@
     {
       "date": "2026-09-30",
       "time": "10:00",
-      "horse": "Misty",
-      "owner": "Tania Nash"
+      "horse": "Hunter",
+      "owner": "Wendy Hems"
     },
     {
       "date": "2026-09-30",
@@ -47,6 +47,12 @@
       "time": "09:30",
       "horse": "Flair",
       "owner": "Daisy Seaton"
+    },
+    {
+      "date": "2026-10-01",
+      "time": "10:00",
+      "horse": "Misty",
+      "owner": "Tania Nash"
     },
     {
       "date": "2026-10-01",
