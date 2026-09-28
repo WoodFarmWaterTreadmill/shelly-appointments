@@ -62,6 +62,12 @@
     },
     {
       "date": "2026-10-01",
+      "time": "11:00",
+      "horse": "Magners",
+      "owner": "Megan Kirk"
+    },
+    {
+      "date": "2026-10-01",
       "time": "12:00",
       "horse": "Freddie",
       "owner": "Maria Lavery"
