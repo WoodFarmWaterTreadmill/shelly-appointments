@@ -68,6 +68,12 @@
     },
     {
       "date": "2026-10-08",
+      "time": "11:30",
+      "horse": "Caspar",
+      "owner": "Kelly Ratcliff"
+    },
+    {
+      "date": "2026-10-08",
       "time": "12:00",
       "horse": "Freddie",
       "owner": "Maria Lavery"
