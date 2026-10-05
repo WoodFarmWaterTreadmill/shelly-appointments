@@ -128,15 +128,15 @@
     },
     {
       "date": "2026-10-15",
-      "time": "10:00",
-      "horse": "Grace",
-      "owner": "Jamie Eaton"
+      "time": "09:30",
+      "horse": "Jack",
+      "owner": "Maisie"
     },
     {
       "date": "2026-10-15",
-      "time": "10:30",
-      "horse": "Jack",
-      "owner": "Maisie"
+      "time": "10:00",
+      "horse": "Grace",
+      "owner": "Jamie Eaton"
     },
     {
       "date": "2026-10-15",
@@ -170,6 +170,12 @@
     },
     {
       "date": "2026-10-21",
+      "time": "10:30",
+      "horse": "Caspar",
+      "owner": "Kellt Ratcliff"
+    },
+    {
+      "date": "2026-10-21",
       "time": "11:00",
       "horse": "Vinnie",
       "owner": "Grace Millar"
@@ -194,15 +200,15 @@
     },
     {
       "date": "2026-10-22",
-      "time": "10:00",
-      "horse": "Grace",
-      "owner": "Jamie Eaton"
+      "time": "09:30",
+      "horse": "Jack",
+      "owner": "Maisie"
     },
     {
       "date": "2026-10-22",
-      "time": "10:30",
-      "horse": "Jack",
-      "owner": "Maisie"
+      "time": "10:00",
+      "horse": "Grace",
+      "owner": "Jamie Eaton"
     },
     {
       "date": "2026-10-22",
@@ -266,6 +272,12 @@
     },
     {
       "date": "2026-10-29",
+      "time": "09:30",
+      "horse": "Caspar",
+      "owner": "Kelly Ratcliff"
+    },
+    {
+      "date": "2026-10-29",
       "time": "10:00",
       "horse": "Grace",
       "owner": "Jamie Eaton"
@@ -317,6 +329,12 @@
       "time": "12:00",
       "horse": "Trump",
       "owner": "Cheryl Noble"
+    },
+    {
+      "date": "2026-11-05",
+      "time": "09:30",
+      "horse": "Caspar",
+      "owner": "Kelly Ratcliff"
     },
     {
       "date": "2026-11-05",
@@ -353,6 +371,12 @@
       "time": "12:00",
       "horse": "Trump",
       "owner": "Cheryl Noble"
+    },
+    {
+      "date": "2026-11-12",
+      "time": "09:30",
+      "horse": "Caspar",
+      "owner": "Kelly Ratcliff"
     },
     {
       "date": "2026-11-12",
@@ -440,6 +464,12 @@
     },
     {
       "date": "2026-12-03",
+      "time": "10:00",
+      "horse": "Grace",
+      "owner": "Jamie Eaton"
+    },
+    {
+      "date": "2026-12-17",
       "time": "10:00",
       "horse": "Grace",
       "owner": "Jamie Eaton"
