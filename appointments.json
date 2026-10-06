@@ -104,12 +104,6 @@
     },
     {
       "date": "2026-10-14",
-      "time": "10:30",
-      "horse": "Caspar",
-      "owner": "Kelly Ratcliff"
-    },
-    {
-      "date": "2026-10-14",
       "time": "11:00",
       "horse": "Vinnie",
       "owner": "Grace Millar"
@@ -143,6 +137,12 @@
       "time": "10:00",
       "horse": "Grace",
       "owner": "Jamie Eaton"
+    },
+    {
+      "date": "2026-10-15",
+      "time": "10:30",
+      "horse": "Caspar",
+      "owner": "Kelly Ratcliff"
     },
     {
       "date": "2026-10-15",
