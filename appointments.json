@@ -260,6 +260,12 @@
     },
     {
       "date": "2026-10-22",
+      "time": "13:30",
+      "horse": "May",
+      "owner": "Maddie Gray"
+    },
+    {
+      "date": "2026-10-22",
       "time": "14:00",
       "horse": "Edith",
       "owner": "Katie Moore"
@@ -329,6 +335,12 @@
       "time": "13:00",
       "horse": "Gibralter",
       "owner": "Steven Lawrence"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "13:30",
+      "horse": "May",
+      "owner": "Maddie Gray"
     },
     {
       "date": "2026-10-29",
