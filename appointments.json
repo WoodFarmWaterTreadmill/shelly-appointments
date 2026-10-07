@@ -320,18 +320,6 @@
     },
     {
       "date": "2026-10-29",
-      "time": "11:00",
-      "horse": "Vinnie",
-      "owner": "Grace Millar"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "11:30",
-      "horse": "Gordon",
-      "owner": "Grace Millar"
-    },
-    {
-      "date": "2026-10-29",
       "time": "12:00",
       "horse": "Freddie",
       "owner": "Maria Lavery"
@@ -380,6 +368,18 @@
     },
     {
       "date": "2026-11-04",
+      "time": "11:00",
+      "horse": "Vinnie",
+      "owner": "Grace Millar"
+    },
+    {
+      "date": "2026-11-04",
+      "time": "11:30",
+      "horse": "Gordon",
+      "owner": "Grace Millar"
+    },
+    {
+      "date": "2026-11-04",
       "time": "12:00",
       "horse": "Trump",
       "owner": "Cheryl Noble"
@@ -395,18 +395,6 @@
       "time": "10:00",
       "horse": "Grace",
       "owner": "Jamie Eaton"
-    },
-    {
-      "date": "2026-11-05",
-      "time": "11:00",
-      "horse": "Vinnie",
-      "owner": "Grace Millar"
-    },
-    {
-      "date": "2026-11-05",
-      "time": "11:30",
-      "horse": "Gordon",
-      "owner": "Grace Millar"
     },
     {
       "date": "2026-11-05",
@@ -434,6 +422,18 @@
     },
     {
       "date": "2026-11-11",
+      "time": "11:00",
+      "horse": "Vinnie",
+      "owner": "Grace Millar"
+    },
+    {
+      "date": "2026-11-11",
+      "time": "11:30",
+      "horse": "Gordon",
+      "owner": "Grace Millar"
+    },
+    {
+      "date": "2026-11-11",
       "time": "12:00",
       "horse": "Trump",
       "owner": "Cheryl Noble"
@@ -449,18 +449,6 @@
       "time": "10:00",
       "horse": "Grace",
       "owner": "Jamie Eaton"
-    },
-    {
-      "date": "2026-11-12",
-      "time": "11:00",
-      "horse": "Vinnie",
-      "owner": "Grace Millar"
-    },
-    {
-      "date": "2026-11-12",
-      "time": "11:30",
-      "horse": "Gordon",
-      "owner": "Grace Millar"
     },
     {
       "date": "2026-11-12",
@@ -488,6 +476,18 @@
     },
     {
       "date": "2026-11-18",
+      "time": "11:00",
+      "horse": "Vinnie",
+      "owner": "Grace Millar"
+    },
+    {
+      "date": "2026-11-18",
+      "time": "11:30",
+      "horse": "Gordon",
+      "owner": "Grace Millar"
+    },
+    {
+      "date": "2026-11-18",
       "time": "12:00",
       "horse": "Trump",
       "owner": "Cheryl Noble"
@@ -497,18 +497,6 @@
       "time": "10:00",
       "horse": "Grace",
       "owner": "Jamie Eaton"
-    },
-    {
-      "date": "2026-11-19",
-      "time": "10:30",
-      "horse": "Vinnie",
-      "owner": "Grace Millar"
-    },
-    {
-      "date": "2026-11-19",
-      "time": "11:00",
-      "horse": "Gordon",
-      "owner": "Grace Millar"
     },
     {
       "date": "2026-11-19",
