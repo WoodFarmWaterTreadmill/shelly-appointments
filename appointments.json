@@ -500,6 +500,12 @@
     },
     {
       "date": "2026-11-19",
+      "time": "10:30",
+      "horse": "Vinnie",
+      "owner": "Grace Millar"
+    },
+    {
+      "date": "2026-11-19",
       "time": "12:00",
       "horse": "Freddie",
       "owner": "Maria Lavery"
