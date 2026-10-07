@@ -404,6 +404,12 @@
     },
     {
       "date": "2026-11-05",
+      "time": "11:30",
+      "horse": "Gordon",
+      "owner": "Grace Millar"
+    },
+    {
+      "date": "2026-11-05",
       "time": "12:00",
       "horse": "Freddie",
       "owner": "Maria Lavery"
