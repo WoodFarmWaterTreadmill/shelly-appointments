@@ -104,12 +104,6 @@
     },
     {
       "date": "2026-10-21",
-      "time": "11:00",
-      "horse": "Vinnie",
-      "owner": "Grace Millar"
-    },
-    {
-      "date": "2026-10-21",
       "time": "11:30",
       "horse": "Gordon",
       "owner": "Grace Millar"
