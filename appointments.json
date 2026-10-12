@@ -1,72 +1,6 @@
 {
   "appointments": [
     {
-      "date": "2026-10-08",
-      "time": "09:30",
-      "horse": "Flair",
-      "owner": "Daisy Seaton"
-    },
-    {
-      "date": "2026-10-08",
-      "time": "10:00",
-      "horse": "Skye",
-      "owner": "Katie Silk"
-    },
-    {
-      "date": "2026-10-08",
-      "time": "10:30",
-      "horse": "Jack",
-      "owner": "Maisie"
-    },
-    {
-      "date": "2026-10-08",
-      "time": "11:00",
-      "horse": "Magners",
-      "owner": "Megan Kirk"
-    },
-    {
-      "date": "2026-10-08",
-      "time": "11:30",
-      "horse": "Caspar",
-      "owner": "Kelly Ratcliff"
-    },
-    {
-      "date": "2026-10-08",
-      "time": "12:00",
-      "horse": "Freddie",
-      "owner": "Maria Lavery"
-    },
-    {
-      "date": "2026-10-08",
-      "time": "12:30",
-      "horse": "Freddie",
-      "owner": "Meg/Steve"
-    },
-    {
-      "date": "2026-10-08",
-      "time": "13:00",
-      "horse": "Gibralter",
-      "owner": "Steven Lawrence"
-    },
-    {
-      "date": "2026-10-08",
-      "time": "13:30",
-      "horse": "Grace",
-      "owner": "Jamie Eaton"
-    },
-    {
-      "date": "2026-10-08",
-      "time": "14:00",
-      "horse": "Edith",
-      "owner": "Katie Moore"
-    },
-    {
-      "date": "2026-10-08",
-      "time": "14:30",
-      "horse": "Toby",
-      "owner": "Jo Young"
-    },
-    {
       "date": "2026-10-14",
       "time": "10:00",
       "horse": "Misty",
@@ -95,6 +29,12 @@
       "time": "12:00",
       "horse": "Trump",
       "owner": "Cheryl Noble"
+    },
+    {
+      "date": "2026-10-14",
+      "time": "12:30",
+      "horse": "Toby",
+      "owner": "Jo Young"
     },
     {
       "date": "2026-10-14",
@@ -151,12 +91,6 @@
       "owner": "Maddie Gray"
     },
     {
-      "date": "2026-10-15",
-      "time": "14:30",
-      "horse": "Toby",
-      "owner": "Jo Young"
-    },
-    {
       "date": "2026-10-21",
       "time": "10:00",
       "horse": "Misty",
@@ -481,12 +415,6 @@
       "owner": "Grace Millar"
     },
     {
-      "date": "2026-11-25",
-      "time": "11:00",
-      "horse": "Gordon",
-      "owner": "Grace Millar"
-    },
-    {
       "date": "2026-11-26",
       "time": "10:00",
       "horse": "Grace",
@@ -511,22 +439,10 @@
       "owner": "Grace Millar"
     },
     {
-      "date": "2026-12-02",
-      "time": "11:00",
-      "horse": "Gordon",
-      "owner": "Grace Millar"
-    },
-    {
       "date": "2026-12-03",
       "time": "10:00",
       "horse": "Grace",
       "owner": "Jamie Eaton"
-    },
-    {
-      "date": "2026-12-09",
-      "time": "11:00",
-      "horse": "Gordon",
-      "owner": "Grace Millar"
     },
     {
       "date": "2026-12-09",
