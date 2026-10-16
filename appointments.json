@@ -1,60 +1,6 @@
 {
   "appointments": [
     {
-      "date": "2026-10-15",
-      "time": "09:30",
-      "horse": "Jack",
-      "owner": "Maisie"
-    },
-    {
-      "date": "2026-10-15",
-      "time": "10:00",
-      "horse": "Grace",
-      "owner": "Jamie Eaton"
-    },
-    {
-      "date": "2026-10-15",
-      "time": "10:30",
-      "horse": "Caspar",
-      "owner": "Kelly Ratcliff"
-    },
-    {
-      "date": "2026-10-15",
-      "time": "11:00",
-      "horse": "König",
-      "owner": "Liz Diegutis"
-    },
-    {
-      "date": "2026-10-15",
-      "time": "11:30",
-      "horse": "Skye",
-      "owner": "Katie Silk"
-    },
-    {
-      "date": "2026-10-15",
-      "time": "12:00",
-      "horse": "Freddie",
-      "owner": "Maria Lavery"
-    },
-    {
-      "date": "2026-10-15",
-      "time": "12:30",
-      "horse": "Freddie",
-      "owner": "Meg/Steve"
-    },
-    {
-      "date": "2026-10-15",
-      "time": "13:00",
-      "horse": "Gibralter",
-      "owner": "Steven Lawrence"
-    },
-    {
-      "date": "2026-10-15",
-      "time": "13:30",
-      "horse": "May",
-      "owner": "Maddie Gray"
-    },
-    {
       "date": "2026-10-19",
       "time": "11:30",
       "horse": "Vinnie",
