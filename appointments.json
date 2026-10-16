@@ -37,6 +37,12 @@
       "owner": "Cheryl Noble"
     },
     {
+      "date": "2026-10-21",
+      "time": "13:00",
+      "horse": "Edith",
+      "owner": "Katie Moore"
+    },
+    {
       "date": "2026-10-22",
       "time": "09:30",
       "horse": "Jack",
@@ -77,12 +83,6 @@
       "time": "13:30",
       "horse": "May",
       "owner": "Maddie Gray"
-    },
-    {
-      "date": "2026-10-22",
-      "time": "14:00",
-      "horse": "Edith",
-      "owner": "Katie Moore"
     },
     {
       "date": "2026-10-22",
