@@ -74,12 +74,6 @@
     },
     {
       "date": "2026-10-29",
-      "time": "14:00",
-      "horse": "Edith",
-      "owner": "Katie Moore"
-    },
-    {
-      "date": "2026-10-29",
       "time": "14:30",
       "horse": "Toby",
       "owner": "Jo Young"
@@ -293,6 +287,12 @@
       "time": "13:00",
       "horse": "Gibralter",
       "owner": "Steven Lawrence"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "14:00",
+      "horse": "Edith",
+      "owner": "Katie Moore"
     },
     {
       "date": "2026-12-02",
