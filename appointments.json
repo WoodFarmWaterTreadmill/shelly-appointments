@@ -87,8 +87,14 @@
     {
       "date": "2026-10-29",
       "time": "13:30",
-      "horse": "May",
-      "owner": "Maddie Gray"
+      "horse": "Luna",
+      "owner": "Victoria Zawoda"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "14:00",
+      "horse": "Luna",
+      "owner": "Victoria Zawoda"
     },
     {
       "date": "2026-10-29",
@@ -269,6 +275,12 @@
       "time": "13:00",
       "horse": "Gibralter",
       "owner": "Steven Lawrence"
+    },
+    {
+      "date": "2026-11-19",
+      "time": "13:30",
+      "horse": "May",
+      "owner": "Maddie Gray"
     },
     {
       "date": "2026-11-19",
