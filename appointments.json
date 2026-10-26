@@ -1,27 +1,6 @@
 {
   "appointments": [
     {
-      "date": "2026-10-26",
-      "time": "10:30",
-      "horse": "Vinnie",
-      "owner": "Grace Millar",
-      "product": "Treadmill"
-    },
-    {
-      "date": "2026-10-26",
-      "time": "11:00",
-      "horse": "Gordon",
-      "owner": "Grace Millar",
-      "product": "Treadmill"
-    },
-    {
-      "date": "2026-10-26",
-      "time": "11:30",
-      "horse": "Freddie",
-      "owner": "Maria Lavery",
-      "product": "Treadmill"
-    },
-    {
       "date": "2026-10-28",
       "time": "10:00",
       "horse": "Misty",
@@ -68,13 +47,6 @@
       "time": "11:30",
       "horse": "König",
       "owner": "Liz Diegutis",
-      "product": "Treadmill"
-    },
-    {
-      "date": "2026-10-29",
-      "time": "12:00",
-      "horse": "Freddie",
-      "owner": "Maria Lavery",
       "product": "Treadmill"
     },
     {
@@ -341,6 +313,13 @@
       "time": "11:30",
       "horse": "Smartie",
       "owner": "Izzy Robertson",
+      "product": "Treadmill"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "12:00",
+      "horse": "Freddie",
+      "owner": "Maria Lavery",
       "product": "Treadmill"
     },
     {
