@@ -9,6 +9,13 @@
     },
     {
       "date": "2026-10-28",
+      "time": "11:00",
+      "horse": "Rocket",
+      "owner": "Katie Silk",
+      "product": "Treadmill"
+    },
+    {
+      "date": "2026-10-28",
       "time": "13:00",
       "horse": "Tony",
       "owner": "Lisa Noble",
@@ -173,7 +180,7 @@
       "time": "14:30",
       "horse": "Toby",
       "owner": "Jo Young",
-      "product": "Treadmilll"
+      "product": "Treadmill"
     },
     {
       "date": "2026-11-11",
@@ -236,6 +243,13 @@
       "time": "14:00",
       "horse": "Edith",
       "owner": "Katie Moore",
+      "product": "Treadmill"
+    },
+    {
+      "date": "2026-11-12",
+      "time": "14:30",
+      "horse": "Franke",
+      "owner": "Mandy Tommy",
       "product": "Treadmill"
     },
     {
