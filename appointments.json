@@ -16,6 +16,13 @@
     },
     {
       "date": "2026-10-28",
+      "time": "12:30",
+      "horse": "Amira",
+      "owner": "Zoe Kerboul",
+      "product": "Treadmill"
+    },
+    {
+      "date": "2026-10-28",
       "time": "13:00",
       "horse": "Tony",
       "owner": "Lisa Noble",
