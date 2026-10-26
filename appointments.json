@@ -30,13 +30,6 @@
     },
     {
       "date": "2026-10-28",
-      "time": "12:00",
-      "horse": "Trump",
-      "owner": "Cheryl Noble",
-      "product": "Treadmill"
-    },
-    {
-      "date": "2026-10-28",
       "time": "13:00",
       "horse": "Tony",
       "owner": "Lisa Noble",
@@ -54,6 +47,13 @@
       "time": "10:00",
       "horse": "Grace",
       "owner": "Jamie Eaton",
+      "product": "Treadmill"
+    },
+    {
+      "date": "2026-10-29",
+      "time": "10:30",
+      "horse": "Trump",
+      "owner": "Cheryl Noble",
       "product": "Treadmill"
     },
     {
