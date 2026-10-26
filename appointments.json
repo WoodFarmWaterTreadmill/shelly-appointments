@@ -9,6 +9,13 @@
     },
     {
       "date": "2026-10-28",
+      "time": "10:30",
+      "horse": "Jack",
+      "owner": "Maisie",
+      "product": "Treadmill"
+    },
+    {
+      "date": "2026-10-28",
       "time": "11:00",
       "horse": "Rocket",
       "owner": "Katie Silk",
@@ -107,13 +114,6 @@
     },
     {
       "date": "2026-11-04",
-      "time": "10:30",
-      "horse": "Edith",
-      "owner": "Katie Moore",
-      "product": "Treadmill"
-    },
-    {
-      "date": "2026-11-04",
       "time": "11:00",
       "horse": "Gordon",
       "owner": "Grace Millar",
@@ -146,6 +146,13 @@
       "horse": "Grace",
       "owner": "Jamie Eaton",
       "product": "Treadmill"
+    },
+    {
+      "date": "2026-11-05",
+      "time": "10:30",
+      "horse": "Jack",
+      "owner": "Maisie",
+      "product": "Treadmilll"
     },
     {
       "date": "2026-11-05",
@@ -191,6 +198,13 @@
     },
     {
       "date": "2026-11-11",
+      "time": "10:00",
+      "horse": "Jack",
+      "owner": "Maisie",
+      "product": "Treadmilll"
+    },
+    {
+      "date": "2026-11-11",
       "time": "11:00",
       "horse": "Gordon",
       "owner": "Grace Millar",
@@ -247,13 +261,6 @@
     },
     {
       "date": "2026-11-12",
-      "time": "14:00",
-      "horse": "Edith",
-      "owner": "Katie Moore",
-      "product": "Treadmill"
-    },
-    {
-      "date": "2026-11-12",
       "time": "14:30",
       "horse": "Franke",
       "owner": "Mandy Tommy",
@@ -272,6 +279,13 @@
       "horse": "Trump",
       "owner": "Cheryl Noble",
       "product": "Treadmill"
+    },
+    {
+      "date": "2026-11-19",
+      "time": "09:30",
+      "horse": "Jack",
+      "owner": "Maisie",
+      "product": "Treadmilll"
     },
     {
       "date": "2026-11-19",
@@ -309,18 +323,18 @@
       "product": "Treadmill"
     },
     {
-      "date": "2026-11-19",
-      "time": "14:00",
-      "horse": "Edith",
-      "owner": "Katie Moore",
-      "product": "Treadmill"
-    },
-    {
       "date": "2026-11-25",
       "time": "11:00",
       "horse": "Gordon",
       "owner": "Grace Millar",
       "product": "Treadmill"
+    },
+    {
+      "date": "2026-11-26",
+      "time": "09:30",
+      "horse": "Jack",
+      "owner": "Maisie",
+      "product": "Treadmilll"
     },
     {
       "date": "2026-11-26",
@@ -358,18 +372,18 @@
       "product": "Treadmill"
     },
     {
-      "date": "2026-11-26",
-      "time": "14:00",
-      "horse": "Edith",
-      "owner": "Katie Moore",
-      "product": "Treadmill"
-    },
-    {
       "date": "2026-12-02",
       "time": "11:00",
       "horse": "Gordon",
       "owner": "Grace Millar",
       "product": "Treadmill"
+    },
+    {
+      "date": "2026-12-03",
+      "time": "09:30",
+      "horse": "Jack",
+      "owner": "Maisie",
+      "product": "Treadmilll"
     },
     {
       "date": "2026-12-03",
@@ -387,6 +401,13 @@
     },
     {
       "date": "2026-12-10",
+      "time": "09:30",
+      "horse": "Jack",
+      "owner": "Maisie",
+      "product": "Treadmilll"
+    },
+    {
+      "date": "2026-12-10",
       "time": "10:00",
       "horse": "Grace",
       "owner": "Jamie Eaton",
@@ -398,6 +419,20 @@
       "horse": "Smartie",
       "owner": "Izzy Robertson",
       "product": "Treadmill"
+    },
+    {
+      "date": "2026-12-17",
+      "time": "09:30",
+      "horse": "Jack",
+      "owner": "Maisie",
+      "product": "Treadmilll"
+    },
+    {
+      "date": "2026-12-24",
+      "time": "09:30",
+      "horse": "Jack",
+      "owner": "Maisie",
+      "product": "Treadmilll"
     }
   ]
 }
