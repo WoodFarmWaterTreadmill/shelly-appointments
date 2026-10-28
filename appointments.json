@@ -2,28 +2,7 @@
   "appointments": [
     {
       "date": "2026-10-28",
-      "time": "10:00",
-      "horse": "Misty",
-      "owner": "Tania Nash",
-      "product": "Treadmill"
-    },
-    {
-      "date": "2026-10-28",
-      "time": "10:30",
-      "horse": "Jack",
-      "owner": "Maisie",
-      "product": "Treadmill"
-    },
-    {
-      "date": "2026-10-28",
-      "time": "11:00",
-      "horse": "Rocket",
-      "owner": "Katie Silk",
-      "product": "Treadmill"
-    },
-    {
-      "date": "2026-10-28",
-      "time": "12:30",
+      "time": "11:30",
       "horse": "Amira",
       "owner": "Zoe Kerboul",
       "product": "Treadmill"
